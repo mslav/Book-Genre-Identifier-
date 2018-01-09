@@ -17,11 +17,3 @@ interesting learning process. I have also decided to store the genre score for e
 if the total number of points of found keywords was not divisible by the number of found keywords, then the score would
 not be as accurate. An edge case I ran into was realizing that printing any genre scores of 0 is not neccessary so I
 simply did not store those.
-
-
-
-I spent approximately 3 hours (a little over) on this project.
-
-
-
-
